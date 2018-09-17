@@ -1,0 +1,2 @@
+This is a simple text file to check my ability to commit to my git repositry
+this is a check for Workshop2
