@@ -12,6 +12,8 @@ WorkShopTwo
 .. image:: https://readthedocs.org/projects/WorkShopTwo/badge/?version=latest
         :target: https://WorkShopTwo.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
+.. image:: https://coveralls.io/repos/github/ConnorCox1996/Sep19Example/badge.svg?branch=master
+:target: https://coveralls.io/github/ConnorCox1996/Sep19Example?branch=master
 
 
 
